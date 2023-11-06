@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.46feb925.css",
-    "main.js": "/static/js/main.44939fba.js",
-    "static/media/CV-VE-21-09-2023.pdf":"static/media/CV-VE-21-09-2023.pdf",
+    "main.css": "/static/css/main.48242d05.css",
+    "main.js": "/static/js/main.abc9c07b.js",
     "static/media/IMG_E2395.png": "/static/media/IMG_E2395.8ce692d1a94c5931141c.png",
     "static/media/stock-manager.png": "/static/media/stock-manager.87c3014635b570c636f0.png",
     "static/media/project-owner.png": "/static/media/project-owner.8e146eb8c4a04717076c.png",
     "static/media/graphist.png": "/static/media/graphist.8b30ff7afcb2af2e23bf.png",
     "static/media/graphic-designer.png": "/static/media/graphic-designer.0c20d7959d6cb08687b9.png",
     "static/media/helpdesk.png": "/static/media/helpdesk.705a54e5f3314e1bdf17.png",
+    "static/media/CV-VE-21-09-2023.pdf": "/static/media/CV-VE-21-09-2023.82e48f33b8cd82c9bb81.pdf",
     "static/media/RateIT.png": "/static/media/RateIT.81fd958cd7a644f19145.png",
     "static/media/feedHope2.png": "/static/media/feedHope2.cdae13245fea1a222545.png",
     "static/media/contact.png": "/static/media/contact.41c2df50e44d2be898e3.png",
     "static/media/FC0.png": "/static/media/FC0.c035b5d2569791de8326.png",
     "index.html": "/index.html",
-    "main.46feb925.css.map": "/static/css/main.46feb925.css.map",
-    "main.44939fba.js.map": "/static/js/main.44939fba.js.map"
+    "main.48242d05.css.map": "/static/css/main.48242d05.css.map",
+    "main.abc9c07b.js.map": "/static/js/main.abc9c07b.js.map"
   },
   "entrypoints": [
-    "static/css/main.46feb925.css",
-    "static/js/main.44939fba.js"
+    "static/css/main.48242d05.css",
+    "static/js/main.abc9c07b.js"
   ]
 }
